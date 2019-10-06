@@ -1,2 +1,2 @@
 # Site Bookmarker
-This is site bookmarker app
+Technologies: HTML, CSS, Javascript ES5, LocalStorage
