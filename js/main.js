@@ -1,4 +1,5 @@
 // Listen for form submit
+document.addEventListener('DOMContentLoaded', fetchBookmarks);
 document.getElementById('myForm').addEventListener('submit', saveBookmark);
 
 //Save Bookmark
